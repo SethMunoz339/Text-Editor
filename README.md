@@ -10,7 +10,7 @@ This application allows a user to save data to local storage or a database depen
 
 ## URL 
 
-[Link to Website] ([https://techblogsierra-0e66af2c8c9b.herokuapp.com/](https://text-editor1126-45bea9906131.herokuapp.com/))
+[Link to Website] ((https://text-editor1126-45bea9906131.herokuapp.com/))
 
 ## Screenshot 
 
